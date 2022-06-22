@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THETKOOO
 - 👀 I’m interested in flutter/python/embedded system
-- 🌱 I’m currently learning fluter
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
